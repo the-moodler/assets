@@ -1,3 +1,4 @@
+
 # Moodler Assets
 
 The Moodler's public files: the icons its course readmes show (2026-11-18). This folder is meant to be its own public GitHub repo, `moodler-assets`, with GitHub Pages switched on.
@@ -12,14 +13,14 @@ A readme in a private repo can't show an image from that repo to anyone but its 
 
 ## What's here
 
-| Path          | What it is                                                                                                                             |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| `icons/`      | The whole ARJ icon pack from `icon-packs/arj/`: `{type}-16.png` is what readmes link, and the other sizes are for anything bigger. |
-| `index.html`  | The page you see at the site's own address.                                                                                            |
-| `.nojekyll`   | Tells GitHub Pages to serve the files as they are, without running Jekyll over them.                                                   |
-| `.gitignore`  | Operating system, Office and editor files.                                                                                             |
+| Path         | What it is                                                                                                                         |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+| `icons/`     | The whole ARJ icon pack from `icon-packs/arj/`: `{type}-16.png` is what readmes link, and the other sizes are for anything bigger. |
+| `index.html` | The page you see at the site's own address.                                                                                        |
+| `.nojekyll`  | Tells GitHub Pages to serve the files as they are, without running Jekyll over them.                                               |
+| `.gitignore` | Operating system, Office and editor files.                                                                                         |
 
-An icon's address is `{iconsUrl}/{type}-16.png`, for example `https://sdevtutors.github.io/moodler-assets/icons/pdf-16.png`.
+An icon's address is `{iconsUrl}/{type}-16.png`, for example `https://the-moodler.github.io/assets/icons/pdf-16.png`.
 
 ## Updating the icons
 
@@ -29,6 +30,10 @@ Never rename or delete an icon that's already published: readmes already pushed 
 
 ## Setting it up on GitHub
 
-1. Make a public repo called `moodler-assets` and push this folder's contents to it.
-2. In the repo's Settings > Pages, publish from the `main` (or `master`) branch, root folder.
+1. Make a public repo called `assets` and push this folder's contents to it.
+
+2. In the repo's Settings > Pages, publish from the `master` branch, root folder.
+
 3. Check that `common/deployment.json`'s `iconsUrl` matches the site's address, then build the extension and server again.
+
+---
