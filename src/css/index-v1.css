@@ -1,0 +1,24 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(160deg, rgba(249, 128, 18, 0.10), transparent 40%), var(--bs-body-bg);
+}
+
+.thumb {
+    height: 48px;
+    width: auto;
+    max-width: 64px;
+    object-fit: contain;
+}
+
+.actual {
+    image-rendering: pixelated;
+}
+
+.icon-card code {
+    font-size: 0.75rem;
+    word-break: break-all;
+}
+
+.variants a {
+    white-space: nowrap;
+}

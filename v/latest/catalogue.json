@@ -1,0 +1,3049 @@
+{
+ "version": 1,
+ "status": "released",
+ "base": "https://the-moodler.github.io/assets/v/latest/",
+ "categories": [
+  "file-icons",
+  "site-icons",
+  "link-icons",
+  "ui-icons",
+  "symbols",
+  "branding"
+ ],
+ "icons": [
+  {
+   "name": "7z",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/numbers/7z-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/numbers/7z-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/numbers/7z-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/numbers/7z-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/numbers/7z-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "arj",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/a/arj-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/a/arj-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/a/arj-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/a/arj-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/a/arj-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "avi",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/a/avi-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/a/avi-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/a/avi-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/a/avi-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/a/avi-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "bat",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/b/bat-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/b/bat-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/b/bat-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/b/bat-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/b/bat-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "bin",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/b/bin-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/b/bin-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/b/bin-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/b/bin-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/b/bin-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "bmp",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/b/bmp-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/b/bmp-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/b/bmp-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/b/bmp-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/b/bmp-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "bz2",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/b/bz2-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/b/bz2-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/b/bz2-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/b/bz2-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/b/bz2-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "c",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/c-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/c-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/c-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/c-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/c-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "cab",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/cab-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/cab-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/cab-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/cab-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/cab-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "cpp",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/cpp-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/cpp-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/cpp-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/cpp-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/cpp-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "cs",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/cs-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/cs-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/cs-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/cs-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/cs-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "css",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/css-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/css-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/css-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/css-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/css-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "csv",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/c/csv-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/c/csv-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/c/csv-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/c/csv-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/c/csv-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "db",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/d/db-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/d/db-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/d/db-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/d/db-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/d/db-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "dmg",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/d/dmg-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/d/dmg-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/d/dmg-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/d/dmg-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/d/dmg-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "doc",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/d/doc-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/d/doc-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/d/doc-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/d/doc-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/d/doc-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "docx",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/d/docx-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/d/docx-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/d/docx-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/d/docx-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/d/docx-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "exe",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/e/exe-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/e/exe-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/e/exe-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/e/exe-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/e/exe-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "file",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/f/file-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/f/file-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/f/file-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/f/file-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/f/file-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "folder",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/f/folder-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/f/folder-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/f/folder-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/f/folder-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/f/folder-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "gif",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/g/gif-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/g/gif-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/g/gif-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/g/gif-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/g/gif-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "gz",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/g/gz-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/g/gz-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/g/gz-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/g/gz-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/g/gz-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "h",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/h/h-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/h/h-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/h/h-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/h/h-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/h/h-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "htm",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/h/htm-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/h/htm-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/h/htm-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/h/htm-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/h/htm-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "html",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/h/html-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/h/html-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/h/html-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/h/html-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/h/html-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "img",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/i/img-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/i/img-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/i/img-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/i/img-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/i/img-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "ipynb",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/i/ipynb-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/i/ipynb-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/i/ipynb-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/i/ipynb-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/i/ipynb-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "iso",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/i/iso-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/i/iso-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/i/iso-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/i/iso-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/i/iso-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "jar",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/jar-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/jar-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/jar-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/jar-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/jar-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "java",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/java-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/java-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/java-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/java-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/java-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "jpeg",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/jpeg-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/jpeg-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/jpeg-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/jpeg-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/jpeg-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "jpg",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/jpg-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/jpg-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/jpg-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/jpg-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/jpg-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "js",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/js-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/js-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/js-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/js-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/js-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "json",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/j/json-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/j/json-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/j/json-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/j/json-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/j/json-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "log",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/l/log-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/l/log-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/l/log-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/l/log-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/l/log-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "lzh",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/l/lzh-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/l/lzh-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/l/lzh-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/l/lzh-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/l/lzh-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "m4a",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/m4a-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/m4a-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/m4a-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/m4a-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/m4a-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "md",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/md-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/md-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/md-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/md-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/md-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mkv",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mkv-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mkv-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mkv-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mkv-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mkv-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mov",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mov-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mov-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mov-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mov-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mov-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mp3",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mp3-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mp3-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mp3-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mp3-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mp3-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mp4",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mp4-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mp4-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mp4-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mp4-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mp4-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mpp",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mpp-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mpp-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mpp-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mpp-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mpp-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "mpx",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/mpx-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/mpx-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/mpx-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/mpx-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/mpx-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "msi",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/m/msi-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/m/msi-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/m/msi-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/m/msi-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/m/msi-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "odp",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/o/odp-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/o/odp-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/o/odp-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/o/odp-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/o/odp-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "ods",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/o/ods-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/o/ods-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/o/ods-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/o/ods-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/o/ods-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "odt",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/o/odt-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/o/odt-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/o/odt-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/o/odt-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/o/odt-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "part",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/part-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/part-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/part-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/part-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/part-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "pdf",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/pdf-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/pdf-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/pdf-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/pdf-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/pdf-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "pdf-d",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/pdf-d-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/pdf-d-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/pdf-d-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/pdf-d-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/pdf-d-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "php",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/php-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/php-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/php-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/php-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/php-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "png",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/png-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/png-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/png-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/png-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/png-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "ppt",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/ppt-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/ppt-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/ppt-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/ppt-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/ppt-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "pptx",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/pptx-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/pptx-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/pptx-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/pptx-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/pptx-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "ps1",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/ps1-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/ps1-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/ps1-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/ps1-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/ps1-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "py",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/p/py-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/p/py-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/p/py-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/p/py-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/p/py-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "rar",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/r/rar-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/r/rar-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/r/rar-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/r/rar-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/r/rar-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "rtf",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/r/rtf-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/r/rtf-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/r/rtf-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/r/rtf-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/r/rtf-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "sh",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/s/sh-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/s/sh-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/s/sh-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/s/sh-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/s/sh-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "sql",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/s/sql-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/s/sql-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/s/sql-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/s/sql-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/s/sql-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "srt",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/s/srt-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/s/srt-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/s/srt-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/s/srt-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/s/srt-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "svg",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/s/svg-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/s/svg-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/s/svg-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/s/svg-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/s/svg-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "tar",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/t/tar-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/t/tar-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/t/tar-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/t/tar-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/t/tar-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "tgz",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/t/tgz-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/t/tgz-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/t/tgz-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/t/tgz-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/t/tgz-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "ts",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/t/ts-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/t/ts-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/t/ts-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/t/ts-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/t/ts-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "txt",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/t/txt-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/t/txt-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/t/txt-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/t/txt-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/t/txt-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "vsdx",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/v/vsdx-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/v/vsdx-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/v/vsdx-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/v/vsdx-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/v/vsdx-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "vtt",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/v/vtt-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/v/vtt-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/v/vtt-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/v/vtt-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/v/vtt-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "war",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/w/war-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/w/war-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/w/war-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/w/war-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/w/war-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "wav",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/w/wav-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/w/wav-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/w/wav-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/w/wav-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/w/wav-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "webm",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/w/webm-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/w/webm-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/w/webm-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/w/webm-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/w/webm-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "webp",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/w/webp-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/w/webp-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/w/webp-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/w/webp-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/w/webp-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "xls",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/x/xls-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/x/xls-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/x/xls-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/x/xls-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/x/xls-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "xlsx",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/x/xlsx-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/x/xlsx-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/x/xlsx-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/x/xlsx-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/x/xlsx-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "xml",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/x/xml-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/x/xml-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/x/xml-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/x/xml-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/x/xml-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "xz",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/x/xz-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/x/xz-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/x/xz-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/x/xz-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/x/xz-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "yaml",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/y/yaml-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/y/yaml-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/y/yaml-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/y/yaml-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/y/yaml-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "yml",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/y/yml-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/y/yml-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/y/yml-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/y/yml-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/y/yml-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "zip",
+   "category": "file-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "file-icons/z/zip-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "file-icons/z/zip-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "file-icons/z/zip-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "file-icons/z/zip-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "file-icons/z/zip-256.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler by scripts/buildIcons.ts.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "moodle",
+   "category": "site-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "site-icons/moodle-16.png"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "site-icons/moodle-24.png"
+    },
+    {
+     "size": 200,
+     "type": "png",
+     "path": "site-icons/moodle-200.png"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "site-icons/moodle-256.png"
+    },
+    {
+     "size": 256,
+     "type": "svg",
+     "path": "site-icons/moodle-256.svg"
+    }
+   ],
+   "credit": "Moodle. Moodle is a registered trademark of Moodle Pty Ltd.",
+   "owner": "third-party"
+  },
+  {
+   "name": "sharepoint",
+   "category": "site-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "site-icons/sharepoint-16.png"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "site-icons/sharepoint-24.png"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "site-icons/sharepoint-256.png"
+    },
+    {
+     "size": 1280,
+     "type": "png",
+     "path": "site-icons/sharepoint-1280.png"
+    },
+    {
+     "size": 1946,
+     "type": "svg",
+     "path": "site-icons/sharepoint-1946.svg"
+    }
+   ],
+   "credit": "Microsoft SharePoint. SharePoint is a trademark of Microsoft.",
+   "owner": "third-party"
+  },
+  {
+   "name": "teams",
+   "category": "site-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "site-icons/teams-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "site-icons/teams-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "site-icons/teams-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "site-icons/teams-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "site-icons/teams-256.png"
+    }
+   ],
+   "credit": "Microsoft Teams, drawn as a simple shape for The Moodler. Teams is a trademark of Microsoft.",
+   "owner": "third-party"
+  },
+  {
+   "name": "zoom",
+   "category": "site-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "site-icons/zoom-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "site-icons/zoom-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "site-icons/zoom-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "site-icons/zoom-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "site-icons/zoom-256.png"
+    }
+   ],
+   "credit": "Zoom, drawn as a simple shape for The Moodler. Zoom is a trademark of Zoom Communications.",
+   "owner": "third-party"
+  },
+  {
+   "name": "github",
+   "category": "site-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "site-icons/github-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "site-icons/github-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "site-icons/github-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "site-icons/github-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "site-icons/github-256.png"
+    }
+   ],
+   "credit": "GitHub's mark, from GitHub's Octicons. GitHub and its mark are trademarks of GitHub, Inc.",
+   "owner": "third-party"
+  },
+  {
+   "name": "url",
+   "category": "link-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "link-icons/url-16.png"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "link-icons/url-24.png"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "link-icons/url-256.png"
+    },
+    {
+     "size": 512,
+     "type": "png",
+     "path": "link-icons/url-512.png"
+    }
+   ],
+   "credit": "A web link. From The Moodler's original icon set; where it first came from isn't recorded.",
+   "owner": "unknown"
+  },
+  {
+   "name": "pages",
+   "category": "ui-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "ui-icons/pages-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "ui-icons/pages-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "ui-icons/pages-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "ui-icons/pages-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "ui-icons/pages-256.png"
+    }
+   ],
+   "credit": "The icon GitHub uses for Pages, from GitHub's Octicons (MIT licence).",
+   "owner": "third-party"
+  },
+  {
+   "name": "repo",
+   "category": "ui-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "ui-icons/repo-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "ui-icons/repo-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "ui-icons/repo-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "ui-icons/repo-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "ui-icons/repo-256.png"
+    }
+   ],
+   "credit": "The icon GitHub uses for a repository, from GitHub's Octicons (MIT licence).",
+   "owner": "third-party"
+  },
+  {
+   "name": "search",
+   "category": "ui-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "ui-icons/search-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "ui-icons/search-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "ui-icons/search-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "ui-icons/search-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "ui-icons/search-256.png"
+    }
+   ],
+   "credit": "A magnifying glass, from GitHub's Octicons (MIT licence).",
+   "owner": "third-party"
+  },
+  {
+   "name": "settings",
+   "category": "ui-icons",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "ui-icons/settings-16.png"
+    },
+    {
+     "size": 16,
+     "type": "svg",
+     "path": "ui-icons/settings-16.svg"
+    },
+    {
+     "size": 24,
+     "type": "png",
+     "path": "ui-icons/settings-24.png"
+    },
+    {
+     "size": 24,
+     "type": "svg",
+     "path": "ui-icons/settings-24.svg"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "ui-icons/settings-256.png"
+    }
+   ],
+   "credit": "The cog GitHub uses for Settings, from GitHub's Octicons (MIT licence).",
+   "owner": "third-party"
+  },
+  {
+   "name": "no",
+   "category": "symbols",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "symbols/no-16.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler for tick and cross tables, 2026-11-18.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "yes",
+   "category": "symbols",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "symbols/yes-16.png"
+    }
+   ],
+   "credit": "Drawn for The Moodler for tick and cross tables, 2026-11-18.",
+   "owner": "the-moodler"
+  },
+  {
+   "name": "moodler",
+   "category": "branding",
+   "files": [
+    {
+     "size": 16,
+     "type": "png",
+     "path": "branding/moodler/moodler-16.png"
+    },
+    {
+     "size": 32,
+     "type": "png",
+     "path": "branding/moodler/moodler-32.png"
+    },
+    {
+     "size": 48,
+     "type": "png",
+     "path": "branding/moodler/moodler-48.png"
+    },
+    {
+     "size": 128,
+     "type": "png",
+     "path": "branding/moodler/moodler-128.png"
+    },
+    {
+     "size": 256,
+     "type": "png",
+     "path": "branding/moodler/moodler-256.png"
+    },
+    {
+     "size": 256,
+     "type": "svg",
+     "path": "branding/moodler/moodler-256.svg"
+    },
+    {
+     "size": 512,
+     "type": "png",
+     "path": "branding/moodler/moodler-512.png"
+    }
+   ],
+   "credit": "The Moodler's logo: Moodle's own mark, unchanged, with The Moodler's download badge. Moodle is a registered trademark of Moodle Pty Ltd.",
+   "owner": "third-party"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+Copyright (c) 2026 Mark Crowe, The Moodler. All rights reserved.
+
+The files in this repository and on https://the-moodler.github.io/assets/ are published to serve The Moodler's own applications and websites. No licence to copy, modify, redistribute or reuse them is granted by publishing them here, except as stated below.
+
+Credit. Anywhere these files are shown, including through The Moodler's applications, credit must be given as:
+
+    Icons by The Moodler - https://the-moodler.github.io/assets/
+
+Any other use needs written permission from the copyright holder.
+
+Trademarks and third-party marks. Moodle is a registered trademark of Moodle Pty Ltd. Microsoft, SharePoint and Teams are trademarks of Microsoft Corporation. Zoom is a trademark of Zoom Communications, Inc. GitHub and its mark are trademarks of GitHub, Inc. All other trademarks, logos and brand names belong to their respective owners. The icons that show them identify those services only. No rights in any third-party trademark, logo or image are claimed or granted, and their use here does not mean those owners endorse The Moodler.
+
+THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+The github icon and the icons in ui-icons/ are from GitHub's Octicons (https://github.com/primer/octicons), recoloured, under this licence instead:
+
+MIT License
+
+Copyright (c) 2025 GitHub Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

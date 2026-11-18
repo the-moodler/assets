@@ -1,0 +1,19 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(160deg, rgba(249, 128, 18, 0.14), transparent 55%), var(--bs-body-bg);
+}
+
+.logo {
+    width: 112px;
+    height: 112px;
+    filter: drop-shadow(0 10px 24px rgba(0, 0, 0, 0.18));
+}
+
+.file-icons img {
+    height: 36px;
+    width: auto;
+}
+
+.btn-back {
+    min-width: 16rem;
+}
