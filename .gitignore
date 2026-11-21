@@ -662,3 +662,7 @@ FodyWeavers.xsd
 
 # WinMerge
 *.bak
+
+# Get Things Done
+
+docs/gtd-kd.md
