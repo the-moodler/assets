@@ -11,7 +11,20 @@ A readme in a private repo can't show an image from that repo to anyone but its 
 - `home.md` (for reading on your own computer) still links the repo's own `.icons` folder, so it works offline.
 - Markdown copies of files (in a course's `md/` folders) still link `.icons` too.
 
-## What's here
+## Versions
+
+Icons are published in numbered versions under `v/`. A version never changes once it's published: a change goes in the next version, so a link to `v/1/` always shows the same picture.
+
+| Version                                              | Released   | Browse                                                    | What changed                                                                                       |
+|------------------------------------------------------|------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [`v/1/`](https://github.com/the-moodler/assets/tree/master/v/1) | 2026-11-21 | [Catalogue](https://the-moodler.github.io/assets/v/1/) | The icons below, sorted into `file-icons/` (in A–Z folders), `favicons/`, `link-icons/`, `symbols/` and `branding/`. See its [README](https://github.com/the-moodler/assets/blob/master/v/1/README.md). |
+
+Use the newest version for anything new, for example <https://the-moodler.github.io/assets/v/1/file-icons/p-r/pdf-16.png>.
+
+## The addresses from before versions
+
+These folders stay exactly where they are, so every readme already pushed keeps its icons. Nothing in them is renamed or removed.
+
 
 | Path                                                                         | What it is                                                                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
