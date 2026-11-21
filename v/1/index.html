@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en" data-bs-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moodler Assets v1</title>
+  <meta name="description" content="Version 1 of The Moodler's icon library: file icons, favicons, link icons, symbols and branding.">
+  <link rel="icon" type="image/svg+xml" href="branding/moodler/moodler.svg">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script>
+    const dark = window.matchMedia("(prefers-color-scheme: dark)");
+    const setTheme = () => document.documentElement.setAttribute("data-bs-theme", dark.matches ? "dark" : "light");
+    setTheme();
+    dark.addEventListener("change", setTheme);
+  </script>
+  <style>
+    body { background: linear-gradient(160deg, rgba(249, 128, 18, 0.10), transparent 40%), var(--bs-body-bg); min-height: 100vh; }
+    .thumb { height: 48px; width: auto; max-width: 64px; object-fit: contain; }
+    .actual { image-rendering: pixelated; }
+    .icon-card code { font-size: 0.75rem; word-break: break-all; }
+    .variants a { white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <main class="container py-4 py-md-5">
+    <header class="d-flex flex-wrap align-items-center gap-3 mb-4">
+      <a href="../../"><img src="branding/moodler/moodler.svg" width="56" height="56" alt="Moodler Assets home"></a>
+      <div class="me-auto">
+        <h1 class="h2 fw-bold mb-0">Moodler Assets <span class="badge text-bg-primary align-middle fs-6">v1</span></h1>
+        <p class="text-body-secondary mb-0">Released 2026-11-21. Version 1 never changes; changes go in a new version. <a href="https://github.com/the-moodler/assets/blob/master/v/1/README.md">About this version</a></p>
+      </div>
+      <a class="btn btn-outline-primary btn-lg rounded-pill px-4" href="../../">&larr; Back</a>
+    </header>
+
+    <div class="row g-2 mb-4">
+      <div class="col-12 col-md-6">
+        <input id="search" class="form-control form-control-lg" type="search" placeholder="Search icons, e.g. pdf, zoom, yes" aria-label="Search icons">
+      </div>
+      <div class="col-12 col-md-6">
+        <div id="categories" class="btn-group flex-wrap w-100" role="group" aria-label="Category"></div>
+      </div>
+    </div>
+
+    <p id="count" class="text-body-secondary small"></p>
+    <div id="grid" class="row g-3"></div>
+    <p id="error" class="alert alert-danger d-none"></p>
+  </main>
+
+  <div class="toast-container position-fixed bottom-0 end-0 p-3">
+    <div id="copied" class="toast text-bg-success border-0" role="status" aria-live="polite">
+      <div class="toast-body">Copied</div>
+    </div>
+  </div>
+
+  <script>
+    const LABELS = { "file-icons": "File icons", "favicons": "Favicons", "link-icons": "Link icons", "symbols": "Symbols", "branding": "Branding" };
+    let catalogue = null;
+    let category = "all";
+
+    const escape = (text) => text.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+
+    function copy(text) {
+      navigator.clipboard.writeText(text).then(() => {
+        const toast = document.getElementById("copied");
+        toast.classList.add("show");
+        setTimeout(() => toast.classList.remove("show"), 1200);
+      });
+    }
+
+    function card(icon) {
+      const main = icon.files.find((f) => f.variant === "16 px PNG") ?? icon.files[0];
+      const big = icon.files.find((f) => /large PNG|256 px PNG/.test(f.variant)) ?? main;
+      const url = catalogue.base + main.path;
+      const markdown = `![${icon.name}](${url})`;
+      const html = `<img src="${url}" alt="${icon.name}">`;
+      const variants = icon.files.map((f) => `<a class="link-secondary" href="${escape(f.path)}">${escape(f.variant)}</a>`).join(" · ");
+      return `
+        <div class="col-12 col-sm-6 col-lg-4 col-xxl-3">
+          <div class="card h-100 shadow-sm icon-card">
+            <div class="card-body">
+              <div class="d-flex align-items-center gap-3 mb-2">
+                <img class="thumb" src="${escape(big.path)}" alt="" loading="lazy">
+                <img class="actual" src="${escape(main.path)}" alt="${escape(icon.name)} at its real size" loading="lazy">
+                <div class="ms-auto text-end">
+                  <div class="fw-semibold">${escape(icon.name)}</div>
+                  <span class="badge text-bg-secondary">${escape(LABELS[icon.category] ?? icon.category)}</span>
+                </div>
+              </div>
+              <code class="d-block mb-2">${escape(url)}</code>
+              <div class="btn-group btn-group-sm w-100 mb-2" role="group">
+                <button class="btn btn-outline-primary" data-copy="${escape(url)}">URL</button>
+                <button class="btn btn-outline-primary" data-copy="${escape(markdown)}">Markdown</button>
+                <button class="btn btn-outline-primary" data-copy="${escape(html)}">HTML</button>
+              </div>
+              <div class="small variants">${variants}</div>
+              <div class="small text-body-secondary mt-2">${escape(icon.credit)}</div>
+            </div>
+          </div>
+        </div>`;
+    }
+
+    function render() {
+      const query = document.getElementById("search").value.trim().toLowerCase();
+      const shown = catalogue.icons.filter((icon) => (category === "all" || icon.category === category) && (!query || icon.name.includes(query) || icon.category.includes(query)));
+      document.getElementById("grid").innerHTML = shown.map(card).join("");
+      document.getElementById("count").textContent = `${shown.length} of ${catalogue.icons.length} icons`;
+    }
+
+    function buttons() {
+      const all = [["all", "All"], ...catalogue.categories.map((c) => [c, LABELS[c] ?? c])];
+      document.getElementById("categories").innerHTML = all
+        .map(([value, label]) => `<button type="button" class="btn ${value === category ? "btn-primary" : "btn-outline-primary"}" data-category="${value}">${label}</button>`)
+        .join("");
+    }
+
+    document.addEventListener("click", (event) => {
+      const target = event.target.closest("[data-copy], [data-category]");
+      if (!target) return;
+      if (target.dataset.copy !== undefined) copy(target.dataset.copy);
+      if (target.dataset.category) {
+        category = target.dataset.category;
+        buttons();
+        render();
+      }
+    });
+    document.getElementById("search").addEventListener("input", render);
+
+    fetch("catalogue.json")
+      .then((response) => response.json())
+      .then((data) => {
+        catalogue = data;
+        buttons();
+        render();
+      })
+      .catch((error) => {
+        const box = document.getElementById("error");
+        box.textContent = `Couldn't load the catalogue: ${error}`;
+        box.classList.remove("d-none");
+      });
+  </script>
+</body>
+</html>
